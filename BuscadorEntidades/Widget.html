@@ -1,0 +1,66 @@
+<div>
+
+
+
+
+    <div>
+        <h1><b>Seleccione un plan para comenzar</b></h1>
+        <hr>
+        <select data-dojo-attach-point="selectPlan" data-dojo-attach-event="onChange:cargaPlanes"
+            style="display: block;" class="form-select form-select-sm" aria-label=".form-select-sm example">
+
+            <option value="-1">Seleccione un plan</option>
+            <option value="1" text="Tiendas">Tiendas</option>
+            <option value="20" text="Teatro">Teatros</option>
+
+
+            <option value="30" text="Parque">Parques</option>
+            <option value="40" text="OcioNocturno">Ocio Nocturno</option>
+            <option value="50" text="Museo">Museos</option>
+            <option value="60" text="Deporte">Instalaciones deportivas</option>
+            <option value="70" text="Cine">Cines</option>
+
+            <option value="90" text="Bares">Bares</option>
+
+        </select>
+
+
+    </div>
+
+
+
+    <div>
+        <h2><b>Seleccione la valoración mínima que desea que tengan los establecimientos seleccionados</b></h2>
+    </div>
+    <hr>
+
+    <div data-dojo-attach-point="puntosPlanes" class="divisores">
+
+        <label>Valoración: </label>
+
+        <select data-dojo-attach-point="selectValoracion" style="display: block;" class="form-select form-select-sm"
+            aria-label=".form-select-sm example" data-dojo-attach-event="onChange:cargaPlanes">
+
+            <option value="-1">Seleccione una valoración</option>
+            <option value="1" text="Malo">Mala</option>
+            <option value="2" text="Regular">Regular</option>
+
+
+            <option value="3" text="Bueno">Buena</option>
+            <option value="4" text="MuyBueno">Muy Buena</option>
+            <option value="5" text="Excelente">Excelente</option>
+
+
+        </select>
+
+
+    </div>
+
+    <div class="containerImg">
+        <img id="iconImg" src="widgets\BuscadorEntidades\images\LogoPlanApp.jpg" alt="Icono PlanApp">
+
+    </div>
+
+
+
+</div>
