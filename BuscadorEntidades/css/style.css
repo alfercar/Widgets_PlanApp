@@ -1,0 +1,41 @@
+.jimu-widget-BuscadorEntidades {
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.jimu-widget-BuscadorEntidades .containerImg{
+    height: 250px;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.jimu-widget-BuscadorEntidades #iconImg {
+    width: 200px;
+    border-radius: 100%;
+    border: black;
+    color: black;
+}
+
+.jimu-widget-BuscadorEntidades p{
+   
+    font-style: normal;
+    font: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.jimu-widget-BuscadorEntidades h1{
+    /* font-size: large; */
+    font-style: normal;
+    font: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.jimu-widget-BuscadorEntidades h2{
+    /* font-size: large; */
+    font-style: normal;
+    font: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
