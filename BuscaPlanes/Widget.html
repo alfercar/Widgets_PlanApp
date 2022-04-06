@@ -1,0 +1,58 @@
+<div>
+
+    <div>
+        <h1><b>Seleccione un plan para comenzar</b></h1>
+        <hr>
+        <select data-dojo-attach-point="selectPlan" data-dojo-attach-event="onChange:cargaPlanes"
+            style="display: block;" class="form-select form-select-sm" aria-label=".form-select-sm example">
+
+            <option value="-1">Seleccione un plan</option>
+            <option value="1" text="Tiendas">Tiendas</option>
+            <option value="20" text="Teatro">Teatros</option>
+
+
+            <option value="30" text="Parque">Parques</option>
+            <option value="40" text="OcioNocturno">Ocio Nocturno</option>
+            <option value="50" text="Museo">Museos</option>
+            <option value="60" text="Deporte">Instalaciones deportivas</option>
+            <option value="70" text="Cine">Cines</option>
+
+            <option value="90" text="Bares">Bares</option>
+
+        </select>
+
+
+    </div>
+    <br>
+
+    <div data-dojo-attach-point="planes">
+
+        <label>Establecimiento: </label>
+
+        <select data-dojo-attach-point="listaPlanes" class="form-select form-select-sm"
+            aria-label=".form-select-sm example"></select>
+
+        
+
+
+        
+    </div>
+    <br>
+
+    <div id="botonito">
+        
+        <button class="btn btn-outline-primary btn-sm" data-dojo-attach-event="onClick:zoomEstablecimiento"
+        >Localizar establecimiento</button>
+        
+    </div>
+
+    <div class="containerImg">
+        <img id="iconImg" src="widgets\BuscaPlanes\images\LogoPlanApp.jpg" alt="Icono PlanApp">
+    
+      </div>
+
+
+
+</div>
+
+
