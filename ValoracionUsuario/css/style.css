@@ -1,0 +1,39 @@
+.jimu-widget-ValoracionUsuario {
+    padding: 0px;
+    margin: 0px;
+}
+
+.jimu-widget-ValoracionUsuario #botonito{
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+}
+
+.jimu-widget-ValoracionUsuario .containerImg{
+    height: 250px;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.jimu-widget-ValoracionUsuario #iconImg {
+    width: 200px;
+    border-radius: 100%;
+    border: black;
+    color: black;
+}
+
+.jimu-widget-ValoracionUsuario p{
+   
+    font-style: normal;
+    font: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.jimu-widget-ValoracionUsuario h1{
+    /* font-size: large; */
+    font-style: normal;
+    font: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
