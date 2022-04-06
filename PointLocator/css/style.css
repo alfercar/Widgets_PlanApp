@@ -1,0 +1,34 @@
+.jimu-widget-PointLocator #botonito{
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+}
+
+.jimu-widget-PointLocator p{
+   
+    font-style: normal;
+    font: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.jimu-widget-PointLocator h1{
+    font-size: large;
+    font-style: normal;
+    font: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.jimu-widget-PointLocator .containerImg{
+    height: 250px;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.jimu-widget-PointLocator #iconImg {
+    width: 200px;
+    border-radius: 100%;
+    border: black;
+    color: black;
+}
