@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="251.61464mm"
+   height="245.73578mm"
+   viewBox="0 0 251.61464 245.73577"
+   version="1.1"
+   id="svg1419"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="chocolateria.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1421"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.72337264"
+     inkscape:cx="518.40501"
+     inkscape:cy="517.7138"
+     inkscape:window-width="2400"
+     inkscape:window-height="1271"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1416">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1906">
+      <rect
+         style="fill:#f9fffe;stroke-width:0.999999"
+         id="rect1908"
+         width="331.51678"
+         height="310.60532"
+         x="99.358009"
+         y="-1.1982787e-06" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(19.802536,-81.533295)">
+    <ellipse
+       style="fill:#329299;fill-opacity:1;stroke-width:24.0564;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       id="path5813"
+       cx="106.00478"
+       cy="204.40118"
+       rx="125.80732"
+       ry="122.86789" />
+    <g
+       id="g1609"
+       transform="matrix(0.23610115,0.11941769,-0.11941769,0.23610115,60.216156,99.374309)"
+       clip-path="url(#clipPath1906)">
+      <polyline
+         style="fill:#c66500"
+         points="106.962,245.86 106.962,7.604 405.038,7.604 405.038,504.396 106.962,504.396   106.962,266.14 "
+         id="polyline1553" />
+      <path
+         style="fill:#53180f"
+         d="m 99.358,0 v 245.86 h 15.208 v -31.936 h 84.151 v 84.15 H 114.566 V 266.14 H 99.358 V 512 H 412.641 V 0 Z m 298.076,99.358 h -84.151 v -84.15 h 84.151 z M 213.925,397.434 v -84.151 h 84.15 v 84.151 z m 84.15,15.208 v 84.15 h -84.15 v -84.15 z m 15.208,-99.359 h 84.151 v 84.151 h -84.151 z m 0,-15.208 v -84.15 h 84.151 v 84.15 z m 0,-99.358 v -84.151 h 84.151 v 84.151 z m -15.208,-84.151 v 84.151 h -84.15 v -84.151 z m -84.15,-15.208 v -84.15 h 84.15 v 84.15 z m -15.208,-84.15 v 84.15 h -84.151 v -84.15 z m -84.151,183.509 v -84.151 h 84.151 v 84.151 z m 99.359,15.208 h 84.15 v 84.15 h -84.15 z m -15.208,99.358 v 84.151 h -84.151 v -84.151 z m -84.151,99.359 h 84.151 v 84.15 h -84.151 z m 267.657,84.15 v -60.323 h -15.208 v 60.323 h -53.732 v -84.15 h 84.151 v 84.15 z"
+         id="path1555" />
+      <g
+         id="g1557" />
+      <g
+         id="g1559" />
+      <g
+         id="g1561" />
+      <g
+         id="g1563" />
+      <g
+         id="g1565" />
+      <g
+         id="g1567" />
+      <g
+         id="g1569" />
+      <g
+         id="g1571" />
+      <g
+         id="g1573" />
+      <g
+         id="g1575" />
+      <g
+         id="g1577" />
+      <g
+         id="g1579" />
+      <g
+         id="g1581" />
+      <g
+         id="g1583" />
+      <g
+         id="g1585" />
+    </g>
+    <path
+       d="m 69.724831,258.14911 h 28.111449 0.02831 28.11171 c 37.95607,-19.93159 33.39862,-82.12772 33.39862,-82.12772 v -0.92023 H 97.866178 97.837868 36.46406 v 0.92023 c 0,2.6e-4 -4.693973,62.19639 33.260771,82.12772 z"
+       id="path1480"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="M 164.37925,264.79306 H 32.459592 c -2.8702,0 -4.38838,3.39328 -2.4765,5.53429 l 5.942806,6.64554 c 0.629443,0.70591 1.529821,1.10781 2.474912,1.10781 h 120.03564 c 0.94509,0 1.8452,-0.4019 2.4765,-1.10781 l 5.94121,-6.64554 c 1.91162,-2.14101 0.3937,-5.53429 -2.47491,-5.53429 z"
+       id="path1486"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="m 191.05587,202.29954 c 0,-21.97947 -20.6973,-20.64914 -24.84782,-20.16072 0.008,2.76225 -0.068,6.27009 -0.33205,10.27297 3.01784,-0.69268 14.75766,-2.98476 14.09144,9.73985 0,0 -1.2192,17.31724 -20.67401,24.09877 -1.84864,5.25198 -4.17221,10.45237 -7.10882,15.35563 39.7965,-15.56967 38.87126,-39.3065 38.87126,-39.3065 z"
+       id="path1488"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       id="g1494"
+       transform="matrix(0.26458333,0,0,0.26458333,13.769858,11.575151)" />
+    <g
+       id="g1496"
+       transform="matrix(0.26458333,0,0,0.26458333,13.769858,11.575151)" />
+    <g
+       id="g1498"
+       transform="matrix(0.26458333,0,0,0.26458333,13.769858,11.575151)" />
+    <g
+       id="g1500"
+       transform="matrix(0.26458333,0,0,0.26458333,13.769858,11.575151)" />
+    <g
+       id="g1502"
+       transform="matrix(0.26458333,0,0,0.26458333,13.769858,11.575151)" />
+    <g
+       id="g1504"
+       transform="matrix(0.26458333,0,0,0.26458333,13.769858,11.575151)" />
+    <g
+       id="g1506"
+       transform="matrix(0.26458333,0,0,0.26458333,13.769858,11.575151)" />
+    <g
+       id="g1508"
+       transform="matrix(0.26458333,0,0,0.26458333,13.769858,11.575151)" />
+    <g
+       id="g1510"
+       transform="matrix(0.26458333,0,0,0.26458333,13.769858,11.575151)" />
+    <g
+       id="g1512"
+       transform="matrix(0.26458333,0,0,0.26458333,13.769858,11.575151)" />
+    <g
+       id="g1514"
+       transform="matrix(0.26458333,0,0,0.26458333,13.769858,11.575151)" />
+    <g
+       id="g1516"
+       transform="matrix(0.26458333,0,0,0.26458333,13.769858,11.575151)" />
+    <g
+       id="g1518"
+       transform="matrix(0.26458333,0,0,0.26458333,13.769858,11.575151)" />
+    <g
+       id="g1520"
+       transform="matrix(0.26458333,0,0,0.26458333,13.769858,11.575151)" />
+    <g
+       id="g1522"
+       transform="matrix(0.26458333,0,0,0.26458333,13.769858,11.575151)" />
+  </g>
+</svg>
